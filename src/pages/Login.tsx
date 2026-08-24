@@ -11,7 +11,7 @@ function Login() {
 					<label htmlFor='password'>Password</label>
 					<input id='password' name='password' type='password' autoComplete='current-password' />
 				</div>
-				<button type='submit'>Log in</button>
+				<button type='submit'>Log innn</button>
 			</form>
 		</main>
 	)
