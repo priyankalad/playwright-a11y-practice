@@ -2,7 +2,7 @@ function Login() {
 	return (
 		<main className='login-page'>
 			<form className='login-form' aria-label='Login form'>
-				<h2>Login</h2>
+				<h1>Login</h1>
 				<div className='form-field'>
 					<label htmlFor='username'>Username</label>
 					<input id='username' name='username' type='text' autoComplete='username' />
